@@ -5,7 +5,7 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+By using the git diff?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
@@ -17,3 +17,4 @@ I have no idea at all.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Doing merges manually allows for more precision in deciding which changes to keep.
